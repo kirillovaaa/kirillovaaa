@@ -1,16 +1,22 @@
-### Hi there 👋
+Привет, меня зовут Саша ✌🏼
 
-<!--
-**kirillovaaa/kirillovaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь веб-разработкой. Владею основными навыками: HTML, CSS, JS, React, Git. Использую Figma для визуального проектирования. Обучаюсь в Яндекс.Практикуме и прохожу различные открытые курсы, свободное время посвящаю прокачке навыков и изучению новых технологий. Участвую в разработке игр.
 
-Here are some ideas to get you started:
+работаю только удаленно ✍️
+много путешествую 🏝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/llJTYkKUtwckB0s2yk/giphy.gif" width="250"/>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/александра-кириллова-05732625b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-orange" alt="Линк"/>
+  </a>
+    <a href="https://freelance.habr.com/freelancers/kiri2lova/">
+    <img src="https://img.shields.io/badge/-Хабр%20Фриланс-ff69b4" alt="Хабр Фриланс"/>
+  </a>
+      <a href="https://career.habr.com/kiri2lova">
+    <img src="https://img.shields.io/badge/-Хабр%20Карьера-green" alt="Хабр Карьера"/>
+  </a>
+</div>
