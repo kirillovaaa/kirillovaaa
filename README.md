@@ -12,7 +12,7 @@ I do web development. I have basic skills: HTML, CSS, JS, React, Git. I use Figm
 I only work remotely ✍️
 I travel a lot 🏝
 
-https://kirillovaaa.github.io/ мой сайт/my website 
+https://kirillovaaa.github.io/ мой сайт/ my website 
  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/llJTYkKUtwckB0s2yk/giphy.gif" width="250"/>
