@@ -1,23 +1,45 @@
-# Hello, I'm Sasha ✌🏼
+<h1 align="center">Hi, I'm Sasha ✌🏼</h1>
 
-I work in **web development** and build responsive, user-friendly interfaces.  
-Right now, I'm focusing on **iOS app development** using React Native.
+<p align="center">
+  Web & Mobile Developer · Remote · Open to opportunities
+</p>
 
-## 🛠 Tech Stack
-- HTML, CSS, JavaScript
-- React
-- Git & GitHub
-- Figma (UI/UX Design)
-- Currently learning: React Native
+---
 
-## 🌍 About Me
+### 🛠 Tech Stack
+- **Languages & Tools:** HTML · CSS · JavaScript · Git  
+- **Frameworks:** React · React Native  
+- **Design:** Figma (UI/UX)  
+- **Currently learning:** iOS development
+
+---
+
+### 🌍 About Me
 - I work **remotely** and combine development with travel 🏝  
-- I approach new tools and technologies with curiosity and consistency  
-- Open to collaboration and professional opportunities  
-- Focused on creating clean, maintainable solutions and learning through real practice
+- I enjoy building clean, functional user interfaces  
+- I’m open to **collaboration**, **projects**, and **internship opportunities**  
+- Always curious about new technologies and product design
 
-## 📫 Let's connect
-If you're interested in working together or just want to chat — feel free to reach out!
+---
+
+### 📫 Contact Me
+
+<p>
+  <a href="mailto:your.email@kiri2lova.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/thessunbeam">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+<!--   <a href="https://www.linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+</p>
+
+---
+
+### 🧩 Featured Projects
+- 🛠 [My iOS App](https://github.com/kirillovaaa/Focus) — built with React Native  
 
  
 <div id="header" align="center">
