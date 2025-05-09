@@ -25,7 +25,7 @@
 ### 📫 Contact Me
 
 <p>
-  <a href="mailto:your.email@kiri2lova.com">
+  <a href="mailto:kiri2lova@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/thessunbeam">
