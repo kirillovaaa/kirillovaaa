@@ -15,7 +15,7 @@
 ---
 
 ### 🌍 About Me
-- I work **remotely** and combine development with travel 🏝  
+- I work **remotely** 🏝  
 - I enjoy building clean, functional user interfaces  
 - I’m open to **collaboration**, **projects**, and **internship opportunities**  
 - Always curious about new technologies and product design
